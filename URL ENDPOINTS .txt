@@ -1,0 +1,8 @@
+    URL ENDPOINTS 
+1) Register: http://127.0.0.1:5000/register(POST)
+2)  Login : https://sandeep-pyapplication.onrender.com/login(post)
+3) Template : http://127.0.0.1:5000//template(POST)
+4) Get template details: http://127.0.0.1:5000/template(GET)
+5)Get template by id : http://127.0.0.1:5000/template/65238b9281016bc8e023dadd(GET)
+6)edit details: http://127.0.0.1:5000/template/65238b9281016bc8e023dadd(PUT)
+7)Delete details : http://127.0.0.1:5000/template/65238b9281016bc8e023dadd(DELETE)
